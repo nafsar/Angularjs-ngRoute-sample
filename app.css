@@ -1,0 +1,13 @@
+.box, .box1, .box2 {
+	margin:100px auto 100px auto;border:solid 2px #C0C0C0;width:400px;height:400px;text-align:center;background-color:blue;
+	display:block;margin-top:100px;color:white;font-size:20px;
+}
+.exbox {
+	display:block;margin-top:100px;color:white;font-size:20px;
+}
+.box1 {
+	background-color: green;
+}
+.box2 {
+	background-color: black;
+}
